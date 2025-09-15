@@ -7,7 +7,11 @@ console.log("%cJS Lab Connected — Start completing the TODOs!", "font-weight:b
 // Task 2.1 — declare & reassign
 // Create let course = "CIS101"; display it usinng console.log(course), reassign to "CIS102"; display it again.
 // write code here
+let course = "CIS101";
+console.log(course)
 
+// let course = "CIS102";
+// console.log(course)
 
 // Task 2.2 — const safety
 // Create const SCHOOL = "MyCollege"; then TRY to reassign it and observe the Console error. Add a comment explaining    why  reassignment fails.
